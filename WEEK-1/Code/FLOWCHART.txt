@@ -1,0 +1,52 @@
+1.SIMPLE INTEREST
+Start
+  |
+  V
+Read P, T, R
+  |
+  V
+Calculate A = P * (1 + R*T)
+  |
+  V
+Print "The simple interest is: " A
+  |
+  V
+End
+ 2.COMPOUND  INTEREST
+ 
+Start
+  |
+  V
+Read P, T, R
+  |
+  V
+Calculate A = P * (1 + R/100)**T
+  |
+  V
+Print "The compound interest is: " A
+  |
+  V
+End
+
+
+
+3.ANNUNITY PLAN
+
+
+Start
+  |
+  V
+Read PMT, R, n, t
+  |
+  V
+Calculate A = PMT * (((1 + R/n)**(n*t))-1) / (R/n)
+  |
+  V
+Print "The future value of the annuity is: " A
+  |
+  V
+End
+
+
+
+
