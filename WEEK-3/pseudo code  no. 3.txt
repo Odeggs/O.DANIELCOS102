@@ -1,0 +1,7 @@
+1. Start
+2. Input name1, age1
+3. Input name2, age2
+4. Swap age1 and age2
+5. Display name1 + "'s new age: " + age2
+6. Display name2 + "'s new age: " + age1
+7. End
