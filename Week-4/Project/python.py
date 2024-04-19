@@ -14,7 +14,7 @@ girls_scores = [88, 92, 71, 83, 77, 85, 90, 76, 79, 84]
 def print_table_and_check_scores(names, ages, heights, scores):
     # Header
     print(f"{'Name':<10} {'Age':<5} {'Height':<7} {'Score':<6}")
-    print("-" * 30)
+    print("-" * 40)
     
     # Rows and check scores
     for i in range(len(names)):
